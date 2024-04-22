@@ -896,11 +896,12 @@ section {
 
 .hero-fullscreen h2 {
   margin: 0 0 10px 0;
-  font-size: 30px;
+  font-size: 70px;
   font-weight: 300;
   color: rgb(91, 92, 91);
   font-family: var(--font-secondary);
-  font-family: 'NFL RedZone', sans-serif;
+  font-family: 'Black Ops One';
+  font-style: italic;
 }
 
 .hero-fullscreen h2 span {
@@ -1236,8 +1237,9 @@ section {
 
 .cta .content h3 {
   color: var(--color-secondary);
-  font-family:'NFL RedZone', sans-serif;
-  font-size: 30px;
+  font-family: 'Black Ops One';
+  font-style: italic;
+  font-size: 40px;
   font-weight: 700;
 }
 
@@ -1335,9 +1337,10 @@ section {
 }
 
 .onfocus .content h3 {
-  font-family:'NFL RedZone', sans-serif;
+  font-family: 'Black Ops One';
+  font-style: italic;
   font-weight: 600;
-  font-size: 22px;
+  font-size: 40px;
   color: var(--color-white);
 }
 
@@ -1645,8 +1648,9 @@ section {
 
 .section-header h2 {
   margin-top: 65px;
-  font-family:'NFL RedZone', sans-serif;
-  font-size: 25px;
+  font-family: 'Black Ops One';
+  font-style: italic;
+  font-size: 50px;
   text-decoration: underline;
 
 }
