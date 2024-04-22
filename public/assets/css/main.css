@@ -881,6 +881,7 @@ section {
   padding: 120px 0 60px;
 }
 
+
 .hero-fullscreen:before {
   content: "";
   background-color: rgba(192, 200, 201, 0.682);

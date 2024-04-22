@@ -251,7 +251,7 @@ function Home(){
             <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
                 <div class="service-item">
                 <div class="img">
-                    <img src="assets/img/Génie_civil_bk.png" class="img-fluid" alt="" />
+                    <img src="assets/img/genie_civil.png" class="img-fluid" alt="" />
                 </div>
                 <div class="details position-relative">
                     <div class="icon">
