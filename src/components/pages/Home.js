@@ -201,7 +201,7 @@ function Home(){
 
             <div class="section-header">
             <h2>Nos Services</h2>
-            <p>Ea vitae aspernatur deserunt voluptatem impedit deserunt magnam occaecati dssumenda quas ut ad dolores adipisci aliquam.</p>
+            <p>Découvrez Nos Options de Service</p>
             </div>
 
             <div class="row gy-5">
@@ -251,7 +251,7 @@ function Home(){
             <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
                 <div class="service-item">
                 <div class="img">
-                    <img src="assets/img/genie_civil.png" class="img-fluid" alt="" />
+                    <img src="assets/img/genie_civil.jpg" class="img-fluid" alt="" />
                 </div>
                 <div class="details position-relative">
                     <div class="icon">
