@@ -1,9 +1,22 @@
 import React, { useEffect } from "react";
-import AOS from 'aos';
+
 
 function Home(){
-
+    
     useEffect(() => {
+
+        const mobileNavToogle = document.querySelector('.mobile-nav-toggle');
+        if (mobileNavToogle) {
+            mobileNavToogle.addEventListener('click', function(event) {
+            event.preventDefault();
+
+            document.querySelector('body').classList.toggle('mobile-nav-active');
+
+            
+            this.classList.toggle('bi-list');
+            this.classList.toggle('bi-x');
+            });
+        }
         const handlePreloader = () => {
           const preloader = document.querySelector('#preloader');
           if (preloader) {

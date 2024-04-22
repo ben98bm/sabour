@@ -896,7 +896,7 @@ section {
 
 .hero-fullscreen h2 {
   margin: 0 0 10px 0;
-  font-size: 70px;
+  font-size: 40px;
   font-weight: 300;
   color: rgb(91, 92, 91);
   font-family: var(--font-secondary);
@@ -911,7 +911,7 @@ section {
 .hero-fullscreen p {
   color:  rgb(46, 46, 46);
   margin: 0 0 30px 0;
-  font-size: 20px;
+  font-size: 13px;
   font-weight: 400;
 }
 
@@ -958,11 +958,11 @@ section {
 
 @media (max-width: 640px) {
   .hero-fullscreen h2 {
-    font-size: 32px;
+    font-size: 30px;
   }
 
   .hero-fullscreen p {
-    font-size: 18px;
+    font-size: 10px;
     margin-bottom: 30px;
   }
 
