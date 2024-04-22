@@ -202,7 +202,7 @@ function Home(){
                     <div class="icon">
                     <i class="bi bi-buildings"></i>
                     </div>
-                    <a href="#" class="stretched-link">
+                    <a class="stretched-link">
                     <h3>Construction résidentielle</h3>
                     </a>
                     <p>
@@ -222,7 +222,7 @@ function Home(){
                     <div class="icon">
                     <i class="bi bi-water"></i>
                     </div>
-                    <a href="#" class="stretched-link">
+                    <a class="stretched-link">
                     <h3>Hydraulique et Assainissement</h3>
                     </a>
                     <p>
@@ -244,7 +244,7 @@ function Home(){
                     <div class="icon">
                     <i class="bi bi-cone-striped"></i>
                     </div>
-                    <a href="#" class="stretched-link">
+                    <a class="stretched-link">
                     <h3>Génie civil</h3>
                     </a>
                     <p>
@@ -264,14 +264,14 @@ function Home(){
                     <div class="icon">
                     <i class="bi bi-paint-bucket"></i>
                     </div>
-                    <a href="#" class="stretched-link">
+                    <a class="stretched-link">
                     <h3>Rénovation et réhabilitation</h3>
                     </a>
                     <p>
                     Il s'agit de la restauration, de la rénovation ou de la modernisation des bâtiments existants pour 
                     les rendre plus fonctionnels, esthétiques ou conformes aux normes actuelles.
                     </p>
-                    <a href="#" class="stretched-link"></a>
+                    <a class="stretched-link"></a>
                 </div>
                 </div>
             </div>
@@ -285,14 +285,14 @@ function Home(){
                     <div class="icon">
                     <i class="bi bi-building"></i>
                     </div>
-                    <a href="#" class="stretched-link">
+                    <a class="stretched-link">
                     <h3>Construction industrielle</h3>
                     </a>
                     <p>
                         Cette activité concerne la construction d'installations industrielles telles que des usines, 
                         des entrepôts, des complexes industriels, des installations de traitement, etc.
                     </p>
-                    <a href="#" class="stretched-link"></a>
+                    <a class="stretched-link"></a>
                 </div>
                 </div>
             </div>
@@ -306,14 +306,14 @@ function Home(){
                     <div class="icon">
                     <i class="bi bi-cone"></i>
                     </div>
-                    <a href="#" class="stretched-link">
+                    <a class="stretched-link">
                     <h3>Travaux de terrassement et de fondation</h3>
                     </a>
                     <p>
                         Ces activités comprennent l'excavation, le nivellement du terrain, la préparation du sol et la 
                         construction des fondations nécessaires pour soutenir les structures bâties dessus.
                     </p>
-                    <a href="#" class="stretched-link"></a>
+                    <a class="stretched-link"></a>
                 </div>
                 </div>
             </div>
