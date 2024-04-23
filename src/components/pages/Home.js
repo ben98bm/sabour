@@ -66,7 +66,7 @@ function Home(){
             <li><a class="nav-link scrollto" href="#"><strong>Accueil</strong></a></li>
             <li><a class="nav-link scrollto" href="#about"><strong>About</strong></a></li>
             <li><a class="nav-link scrollto" href="#services"><strong>Services</strong></a></li>
-            <li><a class="nav-link scrollto" href="#recent-blog-posts"><strong>Nos Projets en cous</strong></a></li>
+            <li><a class="nav-link scrollto" href="#recent-blog-posts"><strong>Nos Projets en cours</strong></a></li>
             <li><a class="nav-link scrollto" href="#contact"><strong>Contact</strong></a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle d-none"></i>
