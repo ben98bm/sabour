@@ -63,7 +63,7 @@ function Home(){
                 <li><a href="index-4.html">Home 4 - index-4.html</a></li>
                 </ul>
             </li> */}
-            <li><a class="nav-link scrollto" href="#"><strong>Acceuil</strong></a></li>
+            <li><a class="nav-link scrollto" href="#"><strong>Accueil</strong></a></li>
             <li><a class="nav-link scrollto" href="#about"><strong>About</strong></a></li>
             <li><a class="nav-link scrollto" href="#services"><strong>Services</strong></a></li>
             <li><a class="nav-link scrollto" href="#recent-blog-posts"><strong>Nos Projets en cour</strong></a></li>
