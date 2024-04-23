@@ -872,6 +872,7 @@ section {
 /*--------------------------------------------------------------
 # Fullscreen Hero Section
 --------------------------------------------------------------*/
+
 .hero-fullscreen {
   width: 100%;
   min-height: 100vh;
@@ -1240,7 +1241,7 @@ section {
   color: var(--color-secondary);
   font-family: 'Black Ops One';
   font-style: italic;
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 700;
 }
 

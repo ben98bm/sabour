@@ -12,9 +12,9 @@ function Home(){
 
             document.querySelector('body').classList.toggle('mobile-nav-active');
 
-            
-            this.classList.toggle('bi-list');
             this.classList.toggle('bi-x');
+            this.classList.toggle('bi-list');
+            
             });
         }
         const handlePreloader = () => {
@@ -201,7 +201,7 @@ function Home(){
 
             <div class="section-header">
             <h2>Nos Services</h2>
-            <p>Découvrez Nos Options de Service</p>
+            <p>Découvrez notre palette diversifiée de services, conçus sur mesure pour répondre à vos besoins et dépasser vos attentes.</p>
             </div>
 
             <div class="row gy-5">
