@@ -49,25 +49,16 @@ function Home(){
         <a href="#" class="logo d-flex align-items-center scrollto me-auto me-lg-0">
           
             <img src="assets/img/vecteur.PNG" alt="" /> 
-            {/* <h1>HeroBiz<span>.</span></h1> */}
+
         </a>
 
         <nav id="navbar" class="navbar">
             <ul>
-
-            {/* <li class="dropdown"><a href="#"><span>Home</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-                <ul>
-                <li><a href="index.html">Home 1 - index.html</a></li>
-                <li><a href="index-2.html">Home 2 - index-2.html</a></li>
-                <li><a href="index-3.html" class="active">Home 3 - index-3.html</a></li>
-                <li><a href="index-4.html">Home 4 - index-4.html</a></li>
-                </ul>
-            </li> */}
-            <li><a class="nav-link scrollto" href="#"><strong>Accueil</strong></a></li>
-            <li><a class="nav-link scrollto" href="#about"><strong>About</strong></a></li>
-            <li><a class="nav-link scrollto" href="#services"><strong>Services</strong></a></li>
-            <li><a class="nav-link scrollto" href="#recent-blog-posts"><strong>Nos Projets en cours</strong></a></li>
-            <li><a class="nav-link scrollto" href="#contact"><strong>Contact</strong></a></li>
+                <li><a class="nav-link scrollto" href="#"><strong>Accueil</strong></a></li>
+                <li><a class="nav-link scrollto" href="#about"><strong>About</strong></a></li>
+                <li><a class="nav-link scrollto" href="#services"><strong>Services</strong></a></li>
+                <li><a class="nav-link scrollto" href="#recent-blog-posts"><strong>Nos Projets en cours</strong></a></li>
+                <li><a class="nav-link scrollto" href="#contact"><strong>Contact</strong></a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle d-none"></i>
         </nav>
@@ -83,7 +74,6 @@ function Home(){
         <p> "Votre Partenaire de Confiance pour des Infrastructures Durables et Innovantes" </p>
         <div class="d-flex">
             <a href="#about" class="btn-get-started scrollto"><strong>Commencer ici</strong></a>
-            {/* <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> */}
         </div>
         </div>
     </section>
@@ -431,8 +421,8 @@ function Home(){
         </div>
 
         <div class="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d241.13354910244544!2d-17.46556815652199!3d14.76132263699987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2ssn!4v1713792527872!5m2!1sfr!2ssn" frameborder="0" allowfullscreen></iframe>
-            {/* <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d241.13354910244544!2d-17.46556815652199!3d14.76132263699987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2ssn!4v1713792527872!5m2!1sfr!2ssn" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> */}
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3858.137943590663!2d-17.46811558963808!3d14.761257373064263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xec10deea0ba71b7%3A0x5ce61e4f42c39c5!2sSabour%20Global%20Business!5e0!3m2!1sfr!2ssn!4v1713971020379!5m2!1sfr!2ssn" frameborder="0" allowfullscreen></iframe>
+            {/* <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3858.137943590663!2d-17.46811558963808!3d14.761257373064263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xec10deea0ba71b7%3A0x5ce61e4f42c39c5!2sSabour%20Global%20Business!5e0!3m2!1sfr!2ssn!4v1713971020379!5m2!1sfr!2ssn" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> */}
         </div>
 
         <div class="container">
